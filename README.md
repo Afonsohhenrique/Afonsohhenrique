@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**Afonsohhenrique/Afonsohhenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá, pessoal! Eu sou AFONSO HENRIQUE, um entusiasta da programação embarcando na incrível jornada de desenvolvimento. 💻✨
 
-Here are some ideas to get you started:
+🚀 Neste espaço, compartilho meus primeiros passos, aprendizados e conquistas como desenvolvedor iniciante. Cada linha de código é um novo desafio vencido, e estou animado para aprender mais a cada dia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Meus projetos refletem minha jornada de aprendizado, repleta de experimentos e descobertas. Estou aberto a dicas e sugestões da comunidade para aprimorar minhas habilidades.
+
+🔧 Tecnologias em que estou explorando: <br/>
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <br/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> <br>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+
+### Connect with me 
+<p>
+  <a href="https://www.instagram.com/afonso3/"></a>
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="25px" /> 
+</p>
+<p>
+  <a href="www.linkedin.com/in/afonso-henrique-29a254242"></a>
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="25px"
+</p>
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afonsohhenrique)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsohhenrique)](https://github.com/anuraghazra/github-readme-stats)
+
+Agradeço por visitar meu espaço.🚀

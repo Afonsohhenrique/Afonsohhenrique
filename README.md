@@ -29,9 +29,11 @@
 </p align="left">
 
 <br/>
+
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afonsohhenrique)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stat´s
+[![Afonso Henrique Stat´s](https://github-readme-stats.vercel.app/api?username=afonsohhenrique)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsohhenrique)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -19,13 +19,15 @@
 
 ### Connect with me 
 <p>
-  <a href="https://www.instagram.com/afonso3/"></a>
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="25px" /> 
-</p>
-<p>
-  <a href="www.linkedin.com/in/afonso-henrique-29a254242"></a>
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="25px"
-</p>
+  <a href="https://www.instagram.com/afonso3/">
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="25px" /> 
+  </a>
+  <a href="www.linkedin.com/in/afonso-henrique-29a254242">
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="25px"
+  </a>
+  
+</p align="left">
+<br/>
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afonsohhenrique)](https://github.com/anuraghazra/github-readme-stats)

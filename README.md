@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/afonso-henrique-29a254242/">
     <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="25px"
   </a>
-  <a href="https://mail.google.com/mail/u/1/#inbox">
+  <a href="devafonsohenrique96@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="25px"
   </a>
   
